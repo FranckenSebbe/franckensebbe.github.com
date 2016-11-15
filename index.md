@@ -5,7 +5,6 @@ layout: site
 test site
 ![picture] (/Images/SEBBE_SMALL.jpg)
 
-my
-[CV](CV)
+my [CV](CV)
 
 [my blog:] ()
