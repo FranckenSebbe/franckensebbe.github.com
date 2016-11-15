@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: site
 ---
 #name
 
