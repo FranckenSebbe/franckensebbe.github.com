@@ -3,5 +3,5 @@ layout: site
 ---
 # francken sebbe
 test site
-my picture: 
-my blog: 
+![picture] (/Images/SEBBE_SMALL.jpg)
+[my blog:] ()
