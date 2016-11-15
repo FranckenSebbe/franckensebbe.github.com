@@ -2,4 +2,4 @@
 layout: site
 ---
 # My Blog
-{% includes }
+{% include posts.html %}
