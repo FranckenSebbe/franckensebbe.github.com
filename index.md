@@ -7,4 +7,4 @@ test site
 
 my [CV](CV)
 
-[my blog:] ()
+[my blog:] (/Blog/_posts/2016-11-15%20test.md)
